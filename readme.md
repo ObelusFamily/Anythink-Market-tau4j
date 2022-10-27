@@ -11,3 +11,6 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+To start accept the github repo invitation and clone it to your desktop. Then create your own Github Codespace (https://docs.github.com/en/codespaces/overview).
+Once you have your codespace set up you can run docker-compose up to start the server. You can check it has started by pointing your browser to https://obelusfamily-anythink-market-tau4j-4w5jgxrr4rrfjpp-3000.githubpreview.dev/api/ping. Once everything works you can register yourself as a new user on: https://obelusfamily-anythink-market-tau4j-4w5jgxrr4rrfjpp-3001.githubpreview.dev/register
